@@ -1,4 +1,7 @@
 language: haskell
+arch:
+  - amd64
+  - ppc64le
 ghc:
   - 8.6
   - 8.4
